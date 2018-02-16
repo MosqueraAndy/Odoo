@@ -1,0 +1,2 @@
+# Odoo
+Modulo de EmelecApp
